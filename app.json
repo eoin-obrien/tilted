@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "68c41389-6633-4bd1-ab68-ff997f011aec"
+      }
+    },
+    "owner": "eoin-obrien"
   }
 }
